@@ -93,7 +93,7 @@ phone = "(808)956-8602"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "1890 East-West Road, Moore Hall 569", city = "Honolulu", region = "HI", postcode = "96822", country = "United States", country_code = "US"}
 # "Department of Linguistics, University of Hawai‘i at Mānoa, 1890 East-West Road, Moore Hall 569, Honolulu, HI 96822 USA"
 
 # Geographic coordinates
