@@ -6,9 +6,11 @@ bio: My research interests include documentary and descriptive linguistics,
   usage-based approaches to language, Interactional Linguistics, and
   Austronesian languages.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - documentary linguistics
+  - descriptive linguistics
+  - Usage-based linguistics
+  - Interactional Linguistics
+  - Austronesian languages.
 social:
   - icon: envelope
     icon_pack: fas
@@ -45,9 +47,8 @@ user_groups: []
 highlight_name: false
 email: mcdonn@hawaii.edu
 ---
-
 Bradley McDonnell is an Assistant Professor in the Department of Linguistics at the University of Hawai‘i at Mānoa (UHM). His research interests include documentary linguistics, Usage-based linguistics, Interactional Linguistics, and Austronesian languages. 
 
 He is a faculty advisor for the [Language Documentation Training Center](https://www.ldtc.org) and the Data Science Group, both housed in the Department of Linguistics at UHM. He is also the Book Review Editor for the journal [Language Documentation & Conservation](http://nflrc.hawaii.edu/ldc/) and is an organizer for the [International Conference on Language Documentation & Conservation](http://ling.lll.hawaii.edu/sites/icldc/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
